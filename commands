@@ -1,0 +1,86 @@
+
+Alias:
+  alias          Manage per-server aliases for commands
+CustomCommands:
+  addcom         Adds a custom command
+  customcommands Shows custom commands list
+  delcom         Deletes a custom command
+  editcom        Edits a custom command
+Downloader:
+  cog            Additional cogs management
+Economy:
+  bank           Bank operations
+  economyset     Changes economy module settings
+  leaderboard    Server / global leaderboard
+  payday         Get some free credits
+  payouts        Shows slot machine payouts
+  slot           Play the slot machine
+General:
+  8              Ask 8 ball a question
+  choose         Chooses between multiple choices.
+  flip           Flips a coin... or a user.
+  lmgtfy         Creates a lmgtfy link
+  poll           Starts/stops a poll
+  roll           Rolls random number (between 1 and user choice)
+  rps            Play rock paper scissors
+  serverinfo     Shows server's informations
+  stopwatch      Starts/stops stopwatch
+  urban          Urban Dictionary search
+  userinfo       Shows users's informations
+Image:
+  gif            Retrieves first search result from giphy
+  gifr           Retrieves a random gif from a giphy search
+  imgur          Retrieves a picture from imgur
+Mod:
+  ban            Bans user and deletes last X days worth of messages.
+  blacklist      Bans user from using the bot
+  cleanup        Deletes messages.
+  editrole       Edits roles settings
+  filter         Adds/removes words from filter
+  ignore         Adds servers/channels to ignorelist
+  kick           Kicks user.
+  modset         Manages server administration settings.
+  mute           Mutes user in the channel/server
+  names          Show previous names/nicknames of a user
+  reason         Lets you specify a reason for mod-log's cases
+  rename         Changes user's nickname
+  softban        Kicks the user, deleting 1 day worth of messages.
+  unignore       Removes servers/channels from ignorelist
+
+
+
+  unmute         Unmutes user in the channel/server
+  whitelist      Users who will be able to use the bot
+Owner:
+  cogs           Shows loaded/unloaded cogs
+  command        Disables/enables commands
+  contact        Sends message to the owner
+  info           Shows info about Red
+  join           Joins new server
+  leave          Leaves server
+  load           Loads a module
+  reload         Reloads a module
+  servers        Lists and allows to leave servers
+  set            Changes Red's global settings.
+  shutdown       Shuts down Red
+  unload         Unloads a module
+  uptime         Shows Red's uptime
+  version        Shows Red's current version
+Streams:
+  beam           Checks if beam stream is online
+  hitbox         Checks if hitbox stream is online
+  streamalert    Adds/removes stream alerts from the current channel
+  streamset      Stream settings
+  twitch         Checks if twitch stream is online
+Trivia:
+  trivia         Start a trivia session with the specified list
+  triviaset      Change trivia settings
+​No Category:
+  help           Shows this message.
+
+Type .help command for more info on a command.
+You can also type .help category for more info on a category.
+
+
+
+
